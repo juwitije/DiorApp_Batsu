@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Batsu_DiorApp</string>
+    <string name="select">select</string>
+    <string name="shoes">Shoes</string>
+    <string name="login">LOGIN</string>
+    <string name="price" />
+    <string name="Item_Desc" />
+    <string name="iphone">iphone</string>
+    <string name="descr"> Description</string>
+    <string name="Add_Customer" >Add Customer</string>
+    <string name="show" >Show</string>
+</resources>

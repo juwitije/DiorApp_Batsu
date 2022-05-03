@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/show"
+        android:id="@+id/mnuShow"
+        />
+
+    <item android:title="Add"
+        android:id="@+id/mnuAdd"
+        />
+
+    <item android:title="@string/Add_Customer"
+        android:id="@+id/mnuAddStudent"
+        />
+
+    <item android:title="View"
+        android:id="@+id/mnuViewStudent"
+        />
+
+
+</menu>
